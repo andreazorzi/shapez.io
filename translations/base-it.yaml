@@ -4,49 +4,46 @@ steamPage:
         infinita.
     discordLinkShort: Official Discord
     intro: >-
-        Shapez.io is a relaxed game in which you have to build factories for the
-        automated production of geometric shapes.  
+        Shapez.io è un gioco rilassante in cui devi costruire fabbriche per la produzione automatizzata di forme geometriche.
 
-        As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.
+        All'aumentare del livello, le forme diventano sempre più complesse e devi allargarti sulla mappa infinita.
 
-        And as if that wasn't enough, you also have to produce exponentially more to satisfy the demands - the only thing that helps is scaling!
+        E come se non bastasse, devi anche produrre di più in modo esponenziale per soddisfare le richieste, l'unica cosa che aiuta è il ridimensionamento!
 
-        While you only process shapes at the beginning, you have to color them later - for this you have to extract and mix colors!
+        Mentre elabori solo le forme all'inizio, devi colorarle in seguito - per questo devi estrarre e mescolare i colori!
 
-        Buying the game on Steam gives you access to the full version, but you can also play a demo on shapez.io first and decide later!
-    title_advantages: Standalone Advantages
+        L'acquisto del gioco su Steam ti dà accesso alla versione completa, ma puoi anche giocare prima a una demo su shapez.io e decidere in seguito!
+    title_advantages: Vantaggi Standalone
     advantages:
-        - <b>12 New Level</b> for a total of 26 levels
-        - <b>18 New Buildings</b> for a fully automated factory!
-        - <b>20 Upgrade Tiers</b> for many hours of fun!
-        - <b>Wires Update</b> for an entirely new dimension!
+        - <b>12 Nuovi Livelli</b> per un totale di 26 livelli
+        - <b>18 Nuovi Edifici</b> per una fabbrica completamente automatizzata!
+        - <b>20 Livelli di aggiornamento</b>per tante ore di divertimento!
+        - <b>Connessioni Aggiornate</b>per una dimensione completamente nuova!
         - <b>Dark Mode</b>!
-        - Unlimited Savegames
-        - Unlimited Markers
-        - Support me! ❤️
-    title_future: Planned Content
+        - Salvataggi Illimitati
+        - Marcatori illimitati
+        - Supportami! ❤️
+    title_future: Contenuti Pianificati
     planned:
-        - Blueprint Library (Standalone Exclusive)
-        - Steam Achievements
-        - Puzzle Mode
-        - Minimap
+        - Libreria di progetti (esclusiva Standalone)
+        - Obiettivi di Steam
+        - Modalità puzzle
+        - Minimappa
         - Mods
-        - Sandbox mode
-        - ... and a lot more!
-    title_open_source: This game is open source!
+        - Modalità Sandbox
+        - ... e molto altro!
+    title_open_source: Questo gioco è open source!
     title_links: Links
     links:
         discord: Official Discord
         roadmap: Roadmap
         subreddit: Subreddit
         source_code: Source code (GitHub)
-        translate: Help translate
+        translate: Aiutaci a tradurre
     text_open_source: >-
-        Anybody can contribute, I'm actively involved in the community and
-        attempt to review all suggestions and take feedback into consideration
-        where possible.
+        Chiunque può contribuire, sono attivamente coinvolto nella comunità e cerco di rivedere tutti i suggerimenti e prendere in considerazione il feedback ove possibile.
 
-        Be sure to check out my trello board for the full roadmap!
+        Assicurati di controllare la mia bacheca Trello per la tabella di marcia completa!
 global:
     loading: Caricamento
     error: Errore
@@ -197,8 +194,8 @@ dialogs:
         desc: Non puoi permetterti di incollare quest'area! Sei sicuro di volerla
             tagliare?
     editSignal:
-        title: Set Signal
-        descItems: "Choose a pre-defined item:"
+        title: Imposta segnale
+        descItems: "Scegli un elemento predefinito:"
         descShortKey: ... or enter the <strong>short key</strong> of a shape (Which you
             can generate <link>here</link>)
     renameSavegame:
